@@ -242,7 +242,7 @@
   -webkit-animation-timing-function: var(--fa-animation-timing, steps(8));
           animation-timing-function: var(--fa-animation-timing, steps(8)); }
 
-@media (prefers-reduced-motion: reduce) {
+/*@media (prefers-reduced-motion: reduce) {
   .fa-beat,
   .fa-bounce,
   .fa-fade,
@@ -261,7 +261,7 @@
     -webkit-transition-delay: 0s;
             transition-delay: 0s;
     -webkit-transition-duration: 0s;
-            transition-duration: 0s; } }
+            transition-duration: 0s; } }*/
 
 @-webkit-keyframes fa-beat {
   0%, 90% {
